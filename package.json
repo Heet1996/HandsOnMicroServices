@@ -1,0 +1,26 @@
+{
+  "name": "handsin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express.js": "^1.0.0",
+    "micro": "^9.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heet1996/HandsOnMicroServices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heet1996/HandsOnMicroServices/issues"
+  },
+  "homepage": "https://github.com/Heet1996/HandsOnMicroServices#readme"
+}
