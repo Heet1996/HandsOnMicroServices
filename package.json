@@ -6,11 +6,12 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express.js": "^1.0.0",
-    "micro": "^9.3.3"
+    "micro": "^9.3.3",
+    "seneca": "^3.8.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start":"micro",
+    "start": "micro",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
